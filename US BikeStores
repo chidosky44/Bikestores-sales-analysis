@@ -1,0 +1,20 @@
+# Navigate to your project's directory
+cd path/to/chidosky44/Bikestores-sales-analysis
+
+# Initialize a new Git repository
+git init
+
+# Add all files in the directory to staging
+git add .
+
+# Commit the files with a message
+git commit -m "Initial commit of data analysis project"
+
+# Create a new repository on GitHub and copy the URL provided by GitHub
+# (Assuming repository is created with URL: https://github.com/chidosky44/Bikestores-sales-analysis.git)
+
+# Link your local repository to GitHub
+git remote add origin https://github.com/chidosky44/Bikestores-sales-analysis.git
+
+# Push your changes to GitHub
+git push -u origin master
