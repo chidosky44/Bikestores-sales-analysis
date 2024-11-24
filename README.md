@@ -1,3 +1,4 @@
+![download-resizehood com (3)](https://github.com/user-attachments/assets/7d901e0c-2f62-4357-87a0-9edb1e283348)
 The US Bike Stores Sales Analysis project!
 
 This repository contains an in-depth analysis of sales data from various bike stores across the United States. The primary objective of this project is to uncover insights regarding sales trends, customer preferences, and store performance.
